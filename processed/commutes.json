@@ -1,0 +1,380 @@
+[
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-02T17:02:39Z",
+            "endTimestamp": "2024-02-02T17:28:08Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523738580,
+            "longitudeE7": 49147544,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523524057,
+            "longitudeE7": 48522499,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.996557000139461,
+            "distanceMeters": 7092.09614512929,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-05T08:04:51Z",
+            "endTimestamp": "2024-02-05T08:28:00Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523529343,
+            "longitudeE7": 48526298,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523739270,
+            "longitudeE7": 49147135,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.970861822079235,
+            "distanceMeters": 7563.914667187111,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-05T16:07:17Z",
+            "endTimestamp": "2024-02-05T16:28:49Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523740714,
+            "longitudeE7": 49146443,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523528724,
+            "longitudeE7": 48526759,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.992958375293174,
+            "distanceMeters": 7726.080324390157,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "WALKING",
+        "confidence": "MEDIUM",
+        "duration": {
+            "startTimestamp": "2024-02-06T11:25:30Z",
+            "endTimestamp": "2024-02-06T11:31:00Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523523791,
+            "longitudeE7": 48522610,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523523661,
+            "longitudeE7": 48524889,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 1.0,
+            "distanceMeters": 1.7204729462482131,
+            "travelMode": "WALK"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "MEDIUM",
+        "duration": {
+            "startTimestamp": "2024-02-06T11:31:00Z",
+            "endTimestamp": "2024-02-06T12:10:05Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523757608,
+            "longitudeE7": 49077913,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523740603,
+            "longitudeE7": 49146599,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.9974957393039686,
+            "distanceMeters": 9146.280254272304,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-09T17:13:24Z",
+            "endTimestamp": "2024-02-09T17:43:00Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523735279,
+            "longitudeE7": 49151438,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523523424,
+            "longitudeE7": 48525660,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.9717089981842085,
+            "distanceMeters": 7637.069743841391,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-19T07:50:48Z",
+            "endTimestamp": "2024-02-19T08:14:15Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523524432,
+            "longitudeE7": 48525282,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523737162,
+            "longitudeE7": 49147826,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.9983664085466768,
+            "distanceMeters": 7048.169721372129,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-19T15:51:20Z",
+            "endTimestamp": "2024-02-19T16:16:16Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523736016,
+            "longitudeE7": 49150773,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523521679,
+            "longitudeE7": 48503004,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.9918468212696124,
+            "distanceMeters": 7504.004009653129,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-19T16:23:37Z",
+            "endTimestamp": "2024-02-19T16:24:40Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523515023,
+            "longitudeE7": 48497610,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523521762,
+            "longitudeE7": 48524039,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.0,
+            "distanceMeters": 382.9278319118262,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-21T08:25:20Z",
+            "endTimestamp": "2024-02-21T08:48:01Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523523350,
+            "longitudeE7": 48524606,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523737232,
+            "longitudeE7": 49148410,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.9971453089786828,
+            "distanceMeters": 6738.6895463504525,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-21T16:14:06Z",
+            "endTimestamp": "2024-02-21T16:44:46Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523731278,
+            "longitudeE7": 49164843,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523528485,
+            "longitudeE7": 48462623,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.9832642441913282,
+            "distanceMeters": 6981.642940104635,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-27T07:48:31Z",
+            "endTimestamp": "2024-02-27T08:28:20Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523526290,
+            "longitudeE7": 48516131,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523713809,
+            "longitudeE7": 49142627,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.0,
+            "distanceMeters": 5629.488077558625,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-27T16:50:30Z",
+            "endTimestamp": "2024-02-27T17:17:35Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523736190,
+            "longitudeE7": 49150908,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523523117,
+            "longitudeE7": 48524574,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.9879180043790664,
+            "distanceMeters": 9302.462587909793,
+            "travelMode": "BICYCLE"
+        }
+    },
+    {
+        "activityType": "CYCLING",
+        "confidence": "HIGH",
+        "duration": {
+            "startTimestamp": "2024-02-28T07:57:23Z",
+            "endTimestamp": "2024-02-28T08:24:41Z"
+        },
+        "startLocation": {
+            "latitudeE7": 523517877,
+            "longitudeE7": 48523089,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "endLocation": {
+            "latitudeE7": 523737159,
+            "longitudeE7": 49147658,
+            "sourceInfo": {
+                "deviceTag": -105209575
+            }
+        },
+        "waypointPath": {
+            "confidence": 0.9959929625207499,
+            "distanceMeters": 6599.810053940875,
+            "travelMode": "BICYCLE"
+        }
+    }
+]
